@@ -1,7 +1,7 @@
 # AJP_FinTech_Case_Study
-Unit 1 Homework Assignment: FinTech Case Study on Curu
+Unit 1 Homework Assignment
 
-# Unit 1 Homework Assignment: FinTech Case Study on Curu
+# FinTech Case Study on Curu | Aparna J. Pooleri | 25 September 2020
 
 ![Curu Logo](Curu_Logo.jpg)
 
